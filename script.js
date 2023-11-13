@@ -5,7 +5,8 @@ for (let i = 0; i < 10; i++) {
     }
 
     alert(i); // 1, потім 3, 5, 7, 9
-    console.log(123)
+    console.log(1234)
+    console.log('Зміни на гілці new-feature2');
 }
 
 
