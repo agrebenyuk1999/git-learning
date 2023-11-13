@@ -8,6 +8,7 @@ for (let i = 0; i < 10; i++) {
     console.log(1234)
     console.log('Зміни на гілці new-feature2');
     console.log('Зміни на гілці new-feature')
+    console.log('Зміни на гілці new-feature')
 }
 
 
